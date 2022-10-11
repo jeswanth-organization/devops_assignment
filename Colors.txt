@@ -1,0 +1,4 @@
+violet
+indigo
+blue
+green
